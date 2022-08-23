@@ -1,0 +1,1 @@
+import{a as e,o,b as t,f as n}from"./entry.53a65e88.mjs";const s={head(){return{title:"Welcome To Dad Jokes",meta:[{hid:"description",name:"description",content:"Best place for corny dad jokes"}]}}},c=n("h2",null,"Welcome to the best corny dad jokes app on the web",-1),a=[c];function r(d,i,p,l,_,f){return o(),t("div",null,a)}const m=e(s,[["render",r]]);export{m as default};
